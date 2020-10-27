@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ORGANIZATION>
+  <DEPARTMENT name="Main" dateOfCreation="06-Oct-20" numberOfEmployees="3">
+    <EMPLOYEE number="1" name="Sam" lastName="Fisher" age="56" department="Main" salary="100000" numberOfProjects="7" />
+    <EMPLOYEE number="2" name="John" lastName="Rambo" age="70" department="Main" salary="200000" numberOfProjects="5" />
+    <EMPLOYEE number="3" name="Solid" lastName="Snake" age="49" department="Main" salary="150000" numberOfProjects="3" />
+  </DEPARTMENT>
+  <DEPARTMENT name="Second" dateOfCreation="05-Oct-20" numberOfEmployees="2">
+    <EMPLOYEE number="4" name="Neo" lastName="Anderson" age="27" department="Second" salary="300000" numberOfProjects="3" />
+    <EMPLOYEE number="5" name="Jason" lastName="Bourne" age="33" department="Second" salary="250000" numberOfProjects="5" />    
+  </DEPARTMENT>
+</ORGANIZATION>

@@ -1,0 +1,10 @@
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\bin\Debug\Organization.exe.config
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\bin\Debug\Organization.exe
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\bin\Debug\Organization.pdb
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\obj\Debug\Organization.csprojAssemblyReference.cache
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\obj\Debug\Organization.exe
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\obj\Debug\Organization.pdb
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\bin\Debug\Newtonsoft.Json.dll
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\bin\Debug\Newtonsoft.Json.xml
+D:\Skillbox\02 - C#\Lesson 8.6 (Serialization)\Organization\Organization\obj\Debug\Organization.csproj.CopyComplete
